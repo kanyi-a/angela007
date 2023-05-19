@@ -6,7 +6,7 @@ html, body{
     }
     
     body{
-      background: #f8f4f5;
+      background: black;
       font-family: sans-serif;
     }
     
@@ -35,17 +35,17 @@ html, body{
     }
     
     .text-copy:nth-child(1){
-      stroke: #021e5a;
+      stroke: #e47200;
       animation-delay: -1;
     }
     
     .text-copy:nth-child(2){
-      stroke: #4486dd;
+      stroke: #e69b00;
       animation-delay: -2s;
     }
     
     .text-copy:nth-child(3){
-      stroke: #58b6db;
+      stroke: #e6b400;
       animation-delay: -3s;
     }
     
@@ -55,7 +55,7 @@ html, body{
     }
     
     .text-copy:nth-child(5){
-      stroke: #FDB731;
+      stroke: #ece75f;
       animation-delay: -5s;
     }
     
